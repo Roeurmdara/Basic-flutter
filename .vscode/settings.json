@@ -1,3 +1,5 @@
 {
-    "cmake.sourceDirectory": "C:/Users/Roeurm Dara/Documents/flutter_application_1/linux"
+  "cmake.sourceDirectory": "C:/Users/Roeurm Dara/Documents/flutter_application_1/linux",
+  "java.project.explorer.showNonJavaResources": false,
+  "java.dependency.packagePresentation": "hierarchical"
 }
